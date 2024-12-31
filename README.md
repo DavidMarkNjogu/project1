@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Project 1**
 
-- 🌱 I’m currently learning **Dajngo**
+- 🌱 I’m currently learning **Django and Python**
 
 - 📫 How to reach me **davidmarknjogu@gmail.com**
 
